@@ -1,14 +1,31 @@
-Aoe4ReplayAnalyzer 0.9.3-SNAPSHOT
+# Important Notice
 
-This is an application to parse Age of Empires IV replay files (.rec).
+This beta version is intended for interested parties to test the current state of Aoe4ReplayAnalyzer. It is not meant for general public use since there are still missing and not fully implemented features. We are seeking feedback from early adopters to help us identify and resolve any issues before a full public release. There is no source code available at this time.
 
-Instructions
-
+# Installing And Running Aoe4ReplayAnalyzer 
+ 
+- Download [Aoe4ReplayAnalyzer_0.9.3-SNAPSHOT.zip](https://github.com/exoque/aoe4replayanalyzer/releases/download/v0.9.3-SNAPSHOT/Aoe4ReplayAnalyzer_0.9.3-SNAPSHOT.zip)
+- Extract archive
 - Run Aoe4ReplayAnalyzer\bin\Aoe4ReplayParser.bat
 - Open a replay using File > Open...
 
-The application shows general game settings and players as well as the
-commands which were given throughout to game.
+# Key Features
+
+- Game information: Display match details including game duration, victory conditions and map seed.
+- Player Information: Retrieve detailed player information including names, civilizations, and teams.
+- Game Events: Extract a timeline of major game events such as building constructions, unit productions and technology research.
+- Build Orders: Display commands relevant to the build order used.
+- Automatically parse replays after gamed have ended.
+- Copy replays to an archive folder when games are finished.
+
+# Screenshots
+## Command Log
+![command_log](https://github.com/user-attachments/assets/436f4903-c3e7-4d6e-be4d-f1783c93c038)
+## Build Order
+![build_order](https://github.com/user-attachments/assets/ca1c6e28-6266-4105-87cf-2d3b54f9985e)
+## Landmarks
+![landmark](https://github.com/user-attachments/assets/d3943cb9-9183-427b-8f92-06523a857d14)
+
 
 
 Age of Empires IV © Microsoft Corporation. Aoe4ReplayAnalyzer was created
