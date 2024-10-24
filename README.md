@@ -1,4 +1,4 @@
-Aoe4ReplayAnalyzer 0.9.1-SNAPSHOT
+Aoe4ReplayAnalyzer 0.9.3-SNAPSHOT
 
 This is an application to parse Age of Empires IV replay files (.rec).
 
