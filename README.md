@@ -15,7 +15,7 @@ This beta version is intended for interested parties to test the current state o
 - Player Information: Retrieve detailed player information including names, civilizations, and teams.
 - Game Events: Extract a timeline of major game events such as building constructions, unit productions and technology research.
 - Build Orders: Display commands relevant to the build order used.
-- Automatically parse replays after gamed have ended.
+- Automatically parse replays after games have ended.
 - Copy replays to an archive folder when games are finished.
 
 # Screenshots
@@ -25,6 +25,10 @@ This beta version is intended for interested parties to test the current state o
 ![build_order](https://github.com/user-attachments/assets/ca1c6e28-6266-4105-87cf-2d3b54f9985e)
 ## Landmarks
 ![landmark](https://github.com/user-attachments/assets/d3943cb9-9183-427b-8f92-06523a857d14)
+
+# FAQ
+# Where can I find the replay files?
+Replay files are saved in C:\Users\<username>\My Documents\My Games\Age Of Empires IV\playback which should contain the replay of the last game named temp.rec. File > Open... should automatically open this directory. If Aoe4ReplayAnalyzer is running when a game ends it will save a copy of the file in C:\Users\<username>\My Documents\My Games\Age Of Empires IV\playback\replays. The filename contains the date and time, the map and the player's names for 1vs1s.  
 
 
 
