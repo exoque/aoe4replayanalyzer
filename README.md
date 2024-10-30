@@ -27,11 +27,12 @@ This beta version is intended for interested parties to test the current state o
 ![landmark](https://github.com/user-attachments/assets/d3943cb9-9183-427b-8f92-06523a857d14)
 
 # FAQ
-# Where can I find the replay files?
+## Where can I find the replay files?
 Replay files are saved in C:\Users\<username>\My Documents\My Games\Age Of Empires IV\playback which should contain the replay of the last game named temp.rec. File > Open... should automatically open this directory. If Aoe4ReplayAnalyzer is running when a game ends it will save a copy of the file in C:\Users\<username>\My Documents\My Games\Age Of Empires IV\playback\replays. The filename contains the date and time, the map and the player's names for 1vs1s.  
 
 
 
+# Legal
 Age of Empires IV © Microsoft Corporation. Aoe4ReplayAnalyzer was created
 under Microsoft's "Game Content Usage Rules" using assets from
 Age of Empires IV, and it is not endorsed by or affiliated with Microsoft.
