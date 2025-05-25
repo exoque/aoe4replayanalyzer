@@ -1,7 +1,3 @@
-# Important Notice
-
-This beta version is intended for interested parties to test the current state of Aoe4ReplayAnalyzer. It is not meant for general public use since there are still missing and not fully implemented features. We are seeking feedback from early adopters to help us identify and resolve any issues before a full public release. There is no source code available at this time.
-
 # Installing And Running Aoe4ReplayAnalyzer 
  
 - Download [Aoe4ReplayAnalyzer_0.9.4.zip](https://github.com/exoque/aoe4replayanalyzer/releases/download/v0.9.4/Aoe4ReplayAnalyzer_0.9.4.zip)
