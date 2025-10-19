@@ -1,6 +1,6 @@
 # Installing And Running Aoe4ReplayAnalyzer 
  
-- Download [Aoe4ReplayAnalyzer_0.9.4.zip](https://github.com/exoque/aoe4replayanalyzer/releases/download/v0.9.4/Aoe4ReplayAnalyzer_0.9.4.zip)
+- Download [Aoe4ReplayAnalyzer_0.9.6.zip](https://github.com/exoque/aoe4replayanalyzer/releases/download/v.0.9.6/Aoe4ReplayAnalyzer_0.9.6.zip)
 - Extract archive
 - Run Aoe4ReplayAnalyzer\bin\Aoe4ReplayParser.bat
 - Open a replay using File > Open...
@@ -15,6 +15,10 @@
 - Copy replays to an archive folder when games are finished.
 
 # Screenshots
+## Game Overview
+![game_overview](https://github.com/user-attachments/assets/08569e34-bd90-40a0-a2c4-dfb591489b78)
+## Map Visualization
+![visualization](https://github.com/user-attachments/assets/7d99b9fb-18d1-4d39-9ea7-20d675912922)
 ## Command Log
 ![command_log](https://github.com/user-attachments/assets/436f4903-c3e7-4d6e-be4d-f1783c93c038)
 ## Build Order
@@ -23,6 +27,7 @@
 ![landmark](https://github.com/user-attachments/assets/d3943cb9-9183-427b-8f92-06523a857d14)
 ## Build Order Trainer
 ![build_order_trainer](https://github.com/user-attachments/assets/13adf8cf-037c-46bb-9f77-d094b8033852)
+
 
 # FAQ
 ## Where can I find the replay files?
