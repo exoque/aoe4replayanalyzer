@@ -1,6 +1,6 @@
 # Installing And Running Aoe4ReplayAnalyzer 
  
-- Download [Aoe4ReplayAnalyzer_0.9.6.zip](https://github.com/exoque/aoe4replayanalyzer/releases/download/v.0.9.6/Aoe4ReplayAnalyzer_0.9.6.zip)
+- Download [Aoe4ReplayAnalyzer_0.9.7-SNAPSHOT](https://github.com/exoque/aoe4replayanalyzer/releases/download/0.9.7-SNAPSHOT/Aoe4ReplayAnalyzer_0.9.7-SNAPSHOT.zip))
 - Extract archive
 - Run Aoe4ReplayAnalyzer\bin\Aoe4ReplayParser.bat
 - Open a replay using File > Open...
