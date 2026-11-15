@@ -8,7 +8,7 @@
 - Game information: Display match details including game duration, victory conditions and map seed.
 - Player Information: Retrieve detailed player information including names, civilizations, and teams.
 - Game Events: Extract a timeline of major game events such as building constructions, unit productions and technology research.
-- Build Orders: Display commands relevant to the build order used.  Train build orders an compare your attempts.
+- Build Orders: Display commands relevant to the build order used.  Train build orders and compare your attempts.
 - Automatically show games after they have ended.
 - Copy replays to an archive folder when games are finished.
 
