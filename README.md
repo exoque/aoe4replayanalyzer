@@ -1,32 +1,42 @@
 # Installing And Running Aoe4ReplayAnalyzer 
- 
-- Download [Aoe4ReplayAnalyzer_0.9.9](https://github.com/exoque/aoe4replayanalyzer/releases/download/v0.9.9/Aoe4ReplayAnalyzer_0.9.9.zip)
-- Extract archive
-- Run Aoe4ReplayAnalyzer\bin\Aoe4ReplayParser.bat
-- Open a replay using File > Open...
+- Download [Aoe4ReplayAnalyzer_1.0.0.msi](https://github.com/exoque/aoe4replayanalyzer/releases/download/v1.0.0/Aoe4ReplayAnalyzer-1.0.0.msi)
+- There is now an installer, just install the app by double clicking the downloaded file.
+- Open the app and load the latest replay.
 
 # Key Features
 
 - Game information: Display match details including game duration, victory conditions and map seed.
 - Player Information: Retrieve detailed player information including names, civilizations, and teams.
 - Game Events: Extract a timeline of major game events such as building constructions, unit productions and technology research.
-- Build Orders: Display commands relevant to the build order used.
-- Automatically parse replays after gamed have ended.
+- Build Orders: Display commands relevant to the build order used.  Train build orders an compare your attempts.
+- Automatically show games after they have ended.
 - Copy replays to an archive folder when games are finished.
 
 # Screenshots
-## Game Overview
-![game_overview](https://github.com/user-attachments/assets/08569e34-bd90-40a0-a2c4-dfb591489b78)
-## Map Visualization
-![visualization](https://github.com/user-attachments/assets/7d99b9fb-18d1-4d39-9ea7-20d675912922)
-## Command Log
-![command_log](https://github.com/user-attachments/assets/436f4903-c3e7-4d6e-be4d-f1783c93c038)
-## Build Order
-![build_order](https://github.com/user-attachments/assets/ca1c6e28-6266-4105-87cf-2d3b54f9985e)
-## Landmarks
-![landmark](https://github.com/user-attachments/assets/d3943cb9-9183-427b-8f92-06523a857d14)
+
+## Overview
+<img width="1600" height="900" alt="01-overview" src="https://github.com/user-attachments/assets/c054ef40-2a21-423c-b984-8bb6822766a2" />
+
+## Build Orders
+<img width="1600" height="900" alt="02-build-order" src="https://github.com/user-attachments/assets/f9c7340f-c90d-4c20-a39c-224f20119cda" />
+
 ## Build Order Trainer
-![build_order_trainer](https://github.com/user-attachments/assets/13adf8cf-037c-46bb-9f77-d094b8033852)
+<img width="1600" height="900" alt="09-build-order-trainer" src="https://github.com/user-attachments/assets/ca0666ff-0213-4fc5-b549-10a60d26caf1" />
+
+## APM Graph
+<img width="1600" height="900" alt="03-apm-graph" src="https://github.com/user-attachments/assets/14fed165-def2-4bb5-815b-4781ffe3f10b" />
+
+## Visualization
+<img width="1200" height="960" alt="04-replay-visualization" src="https://github.com/user-attachments/assets/56a7d7ca-c285-46f3-9353-96342cf1de29" />
+
+## Dark Mode
+<img width="1600" height="900" alt="08-overview-dark" src="https://github.com/user-attachments/assets/ae32b0b3-83ec-4952-a27e-15679a50abcb" />
+
+## Show archived games
+<img width="1400" height="760" alt="10-replay-browser" src="https://github.com/user-attachments/assets/34c03d0e-b801-48d1-8458-ac6be90de3b5" />
+
+## Gather Information For Player Reporting
+<img width="640" height="587" alt="05-cheater-report" src="https://github.com/user-attachments/assets/0f29c0af-6343-4beb-aa76-0f8449761780" />
 
 
 # FAQ
